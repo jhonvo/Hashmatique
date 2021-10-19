@@ -1,2 +1,4 @@
 # Hashmatique
-Objectives:  Create your first HashMap.  Iterate over a HashMap.
+Objectives: <br> 
+Create your first HashMap.  <br>
+Iterate over a HashMap.
